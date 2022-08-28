@@ -1,4 +1,5 @@
 # Split-Bullet Cloud Save Backend (Nickolson)
+Cloud game storage for a WebGL game.
 
 Endpoints - Server `/api/v1/`
 * `/login`
